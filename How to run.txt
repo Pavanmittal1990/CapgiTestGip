@@ -1,0 +1,9 @@
+1. Just Go to the CapgiTestGip\CapgiminiFinal.zip\CapgiminiFinal\TestCase\Cases
+
+2. In this folder just open the cmd in this specific path.
+
+3. Now run the below command
+
+java -jar capgimini-0.0.1-SNAPSHOT.jar testOne.txt
+
+and out will be in XML_CVS_Encoded_FIles
