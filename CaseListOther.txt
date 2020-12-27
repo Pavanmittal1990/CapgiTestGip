@@ -1,0 +1,74 @@
+// Sh. problem
+1.  Hey pavan what is your father name.My father name is Late Sh. Suresh chnd mittal.And what 
+is your name. 
+
+result : success
+
+// i.e problem
+2. Is there any Problem, please let me know. Yes I have i.e.,but that is my problem not your.
+Ok I got your point. No Problem. 
+
+result : success
+
+// Mr. problem, sentence space problem
+
+3. Hey, Mr. Pavan Do you know ,what is your native place. No I dont know.
+     I am so hungry i will talk you later.
+
+result : success
+
+// - problem , after . no space and ? problem
+
+4.  He said - he will come one day.No I am not sure.Are You Sure?.Yes may be or not 
+
+
+
+/---------------------------------------------/
+Case 1:
+ 
+A:\MicroservicesProjects\TestCase\Cases>java -jar capgimini-0.0.1-SNAPSHOT.jar testOne.txt
+current working directoryA:\MicroservicesProjects\TestCase\Cases
+testOne
+[father, Hey, is, name, pavan, what, your]
+[chnd, father, is, Late, mittal, My, name, Sh., Suresh]
+[And, is, name, what, your]
+written file is A:\MicroservicesProjects\TestCase\Cases\XML_CVS_Encoded_Files\testOne.xml
+written file is A:\MicroservicesProjects\TestCase\Cases\XML_CVS_Encoded_Files\testOne.csv
+
+Case 2:
+
+A:\MicroservicesProjects\TestCase\Cases>java -jar capgimini-0.0.1-SNAPSHOT.jar testTwo.txt
+current working directoryA:\MicroservicesProjects\TestCase\Cases
+testTwo
+[any, Is, know, let, me, please, Problem, there]
+[but, have, I, i.e., is, my, not, problem, that, Yes, your]
+[got, I, Ok, point, your]
+[No, Problem]
+written file is A:\MicroservicesProjects\TestCase\Cases\XML_CVS_Encoded_Files\testTwo.xml
+written file is A:\MicroservicesProjects\TestCase\Cases\XML_CVS_Encoded_Files\testTwo.csv
+
+Case 3:
+
+A:\MicroservicesProjects\TestCase\Cases>java -jar capgimini-0.0.1-SNAPSHOT.jar testThree.txt
+current working directoryA:\MicroservicesProjects\TestCase\Cases
+testThree
+[Do, Hey, is, know, Mr., native, Pavan, place, what, you, your]
+[dont, I, know, No]
+[am, hungry, I, i, later, so, talk, will, you]
+written file is A:\MicroservicesProjects\TestCase\Cases\XML_CVS_Encoded_Files\testThree.xml
+written file is A:\MicroservicesProjects\TestCase\Cases\XML_CVS_Encoded_Files\testThree.csv
+
+Case 4:
+A:\MicroservicesProjects\TestCase\Cases>java -jar capgimini-0.0.1-SNAPSHOT.jar testFour.txt
+current working directoryA:\MicroservicesProjects\TestCase\Cases
+testFour
+[come, day, He, he, one, said, will]
+[am, I, No, not, sure]
+[Are, Sure, You]
+[be, may, not, or, Yes]
+written file is A:\MicroservicesProjects\TestCase\Cases\XML_CVS_Encoded_Files\testFour.xml
+written file is A:\MicroservicesProjects\TestCase\Cases\XML_CVS_Encoded_Files\testFour.csv
+
+
+
+/----------------------/
